@@ -1,7 +1,9 @@
 ### Olá eu sou o Gonçalo!! 👋
   <hr>
 - 🔭 Student
+
 <br><br>
+
 <div>
   <a href="https://github.com/ferreira1911">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira1911&show_icons=true&theme=dark&include_all_commits=true&count_privte=true"/>
