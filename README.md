@@ -28,41 +28,22 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/ferreira1911">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira1911&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ferreira1911">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira1911&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
-
----
-
 ### 📁 Projects
 
-| Projeto | Descrição |
-|--------|-----------|
-| [**Exemplo**](https://github.com/ferreira1911/Exemplo) | Exemplo |
+| Course | Project | Description | Grade (/20) |
+|--------|---------|-------------|-------------|
+| LCOM   | [**LCOM_Project**](https://github.com/ferreira1911/LCOM_Project) | Development of a simple and interactive shooting training game in C, running on Minix. The project applied low-level programming concepts by integrating four different hardware devices, following the MVC architecture. Three game modes were implemented with different target behaviors and challenges. | 18 |
+| PAP    | [**PAP_Relatorio_Final**](https://github.com/ferreira1911/PAP_Relatorio_Final) | Development of a complete website for the sports club *Geração RD*. The project included a modern responsive interface, public pages (news, gallery, shop, contact, history) and a reserved area for administrators, coaches, and players. Implemented using PHP, HTML, CSS, JavaScript, Ajax, jQuery, Bootstrap, and MySQL. | 20 |
 
 ---
 
 ### 🌐 Contact me!
 
 <div>
-  <a href="https://instagram.com/goncaloferreira.05" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.gg/Ferreira" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
   <a href="mailto:goncalo1133@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/gonçalo-ferreira-b53346232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
