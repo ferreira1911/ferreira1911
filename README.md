@@ -11,7 +11,7 @@ Faculty of Engineering of the University of Porto, Portugal.
 
 ### 🔬 Research & Personal Projects
 
-#### [VC Fut Research](LINK_DO_REPOSITORIO_PUBLICO)
+#### [VC Fut Research](https://github.com/ferreira1911/vc-fut-research)
 
 An experimental computer vision and machine learning project for extracting structured spatial and temporal information from fixed-camera football video.
 
