@@ -9,34 +9,6 @@ Faculty of Engineering of the University of Porto, Portugal.
 
 ---
 
-### 🔬 Research & Personal Projects
-
-#### [VC Fut Research](https://github.com/ferreira1911/vc-fut-research)
-
-An experimental computer vision and machine learning project for extracting structured spatial and temporal information from fixed-camera football video.
-
-The project explores:
-
-- Player and ball detection in high-resolution panoramic footage;
-- Multi-object tracking and identity association;
-- Team affiliation through temporally aggregated visual features;
-- Camera calibration and image-to-pitch projection;
-- Active learning and small-object dataset preparation;
-- Temporal reasoning for football actions and events;
-- Reproducible evaluation with locked holdouts and data-leakage prevention.
-
-**Selected experimental results:**
-
-- **91.7% precision** and **84.9% recall** for player detection on a controlled official holdout;
-- **97.0% identity purity** and **90.2% detection coverage** in a player-tracking benchmark;
-- **96.7% team-affiliation coverage** in a limited global-track experiment;
-- **91.7% precision** for ball detection, with recall and temporal coverage still under active investigation.
-
-**Technologies:** Python, PyTorch, Ultralytics YOLO, OpenCV, NumPy, ByteTrack and Google Colab.
-
-> This is an ongoing research project. Results correspond to specific evaluation protocols.
----
-
 ### 📁 Academic Projects
 
 | Course | Project | Description | Grade (/20) |
