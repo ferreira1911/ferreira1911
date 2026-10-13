@@ -14,6 +14,8 @@ Faculty of Engineering of the University of Porto, Portugal.
 | Course | Project | Description | Grade (/20) |
 |---|---|---|---:|
 | LCOM | [**LCOM Project**](https://github.com/ferreira1911/LCOM_Project) | Development of an interactive shooting-training game in C running on Minix. The project applies low-level programming concepts through the integration of four hardware devices, following an MVC architecture. It includes three game modes with different target behaviours and challenges. | 18 |
+| LBAW | [**AuctionEase**](https://github.com/ferreira1911/LBAW_project) | Online auction platform built with Laravel and PostgreSQL, featuring real-time notifications, buyer–seller chat, Google authentication and Stripe payments in test mode. | 19 |
+| CG | [**Wagon Rush**](https://github.com/ferreira1911/CG_project) | Interactive 3D game built with JavaScript, WebGL and GLSL, featuring heightmap terrain, procedural vegetation, custom shaders, animations and collision detection. | 19 |
 | PAP | [**PAP Final Report**](https://github.com/ferreira1911/PAP_Relatorio_Final) | Development of a complete website for the sports club *Geração RD*, including a responsive public interface and dedicated areas for administrators, coaches and players. Developed with PHP, HTML, CSS, JavaScript, Ajax, jQuery, Bootstrap and MySQL. | 20 |
 
 ---
