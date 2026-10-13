@@ -13,6 +13,7 @@ Faculty of Engineering of the University of Porto, Portugal.
 
 | Course | Project | Description | Grade (/20) |
 |---|---|---|---:|
+| AI | [**SlideShow-AI**](https://github.com/frutastontas/SlideShow-AI) | Photo slideshow optimizer built with Python, featuring metaheuristic algorithms and an interactive interface for comparing results. | 20 |
 | LCOM | [**LCOM Project**](https://github.com/ferreira1911/LCOM_Project) | Development of an interactive shooting-training game in C running on Minix. The project applies low-level programming concepts through the integration of four hardware devices, following an MVC architecture. It includes three game modes with different target behaviours and challenges. | 18 |
 | LBAW | [**AuctionEase**](https://github.com/ferreira1911/LBAW_project) | Online auction platform built with Laravel and PostgreSQL, featuring real-time notifications, buyer–seller chat, Google authentication and Stripe payments in test mode. | 19 |
 | CG | [**Wagon Rush**](https://github.com/ferreira1911/CG_project) | Interactive 3D game built with JavaScript, WebGL and GLSL, featuring heightmap terrain, procedural vegetation, custom shaders, animations and collision detection. | 19 |
