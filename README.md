@@ -5,7 +5,15 @@
 🎓 **MSc student in Informatics and Computing Engineering at FEUP**  
 Faculty of Engineering of the University of Porto, Portugal.
 
-🔬 Interested in **Computer Vision**, **Machine Learning**, **Artificial Intelligence**, and **Software Engineering**.
+I enjoy building software and learning how systems work together. My main interests are software engineering and AI, particularly machine learning and computer vision.
+
+---
+
+## Tech stack
+
+**Main languages:** Python, C, C++, SQL, PHP, Java, JavaScript  
+**AI:** LLM agents, tool calling, speech recognition and synthesis  
+**Tools:** Git, Docker, Azure DevOps
 
 ---
 
