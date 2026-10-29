@@ -1,19 +1,19 @@
-### Hello there! I'm Gonçalo 👋
-
-<hr>
+### Hi, I'm Gonçalo 👋
 
 🎓 **MSc student in Informatics and Computing Engineering at FEUP**  
 Faculty of Engineering of the University of Porto, Portugal.
 
-I enjoy building software and learning how systems work together. My main interests are software engineering and AI, particularly machine learning and computer vision.
+I enjoy building software, solving practical problems and learning how systems work together. My main interests are **software engineering** and **AI**, particularly machine learning and computer vision.
 
 ---
 
-## Tech stack
+### 🛠️ Tech Stack
 
-**Main languages:** Python, C, C++, SQL, PHP, Java, JavaScript  
-**AI:** LLM agents, tool calling, speech recognition and synthesis  
-**Tools:** Git, Docker, Azure DevOps
+**Main languages:** Python · C · C++ · SQL · PHP · Java · JavaScript
+
+**AI:** LLM agents · Tool calling · Speech recognition and synthesis
+
+**Tools:** Git · Docker · Azure DevOps
 
 ---
 
@@ -29,13 +29,35 @@ I enjoy building software and learning how systems work together. My main intere
 
 ---
 
+### 💼 Research & Experience
+
+#### INESC TEC — Research Assistant & Collaborator
+
+Developing a research publication platform for Produtech_R3, integrating publication data from the Authenticus API.
+
+**Technologies:** Python · Django/Wagtail · Vue.js · PostgreSQL
+
+#### ARMIS Group — Software Engineering Intern
+
+Built an AI-powered interaction prototype for Drive3, integrating an LLM agent with application APIs.
+
+**Technologies:** LLM agents · React · Angular · Capacitor
+
+#### DigitalGreen — Software Developer Intern
+
+Developed websites during a 400-hour internship.
+
+**Technologies:** PHP · JavaScript · HTML · CSS
+
+---
+
 ### 🌐 Contact me
 
 <div>
   <a href="mailto:goncalo1133@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/gonçalo-ferreira-b53346232" target="_blank">
+  <a href="https://www.linkedin.com/in/gon%C3%A7alo-ferreira-b53346232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
